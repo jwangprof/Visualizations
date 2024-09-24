@@ -1,4 +1,4 @@
-# Visualizations
+# Tabelau Visualizations
 
 ![Cust Churn Dashboard](https://github.com/user-attachments/assets/8d6f1ceb-e47f-469f-a8d0-e51415c2bee8)
 ![Occ_wage](https://github.com/user-attachments/assets/199a6b57-99a0-4b71-821e-2319c0033cdd)
